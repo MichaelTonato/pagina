@@ -70,7 +70,17 @@ function getURLParam(name) {
 function showDedicationText() { //seguidores
   let text = getURLParam('text');
   if (!text) {
-    text = `Para Sabrina <3:\n\nSe que talvez no la estas pasando bien y que talvez han sido dias muy dificiLes para ti, talvez necesitas estar solita, solo quiero que sepas que yo siempre voy a estar aqui para ti y para ayudarte, quiero que sepas que siempre vas a poder contar conmigo.\n\nRecuerda que eres una persona muy increíble, única, inteligente y sobre todo muy linda, eres una niña muy capaz de todo y sobre todo una niña que nunca se rinde y eso admiro mucho de ti <3\n\nTu puedes con todo y tenemos que ir a probar los mochis jsjs`;  } else {
+    text = 
+text = `Para Carolina <3:
+
+Holaaa, Carooo jsjs <3. Quería desearte un bonito primer día de clases. Espero que hoy te vaya súper bien, que conozcas personas bonitas, que aprendas muchas cosas y que poco a poco te vayas sintiendo cómoda en esta nueva etapa.
+
+Sé que a veces empezar algo nuevo puede dar un poquito de nervios, pero quiero que recuerdes lo increíble, inteligente y capaz que eres. Confía mucho en ti, porque tienes muchas cosas bonitas por delante y estoy seguro de que puedes lograr todo lo que te propongas.
+
+Espero que hoy tengas muchos motivos para sonreír y que, si en algún momento el día se pone pesado, recuerdes que hay alguien que desea verte bien y que siempre va a estar feliz de escucharte y apoyarte. osea yo. <3
+
+Cuídate mucho hoy, disfruta tu primer día y no te olvides de sonreír, que estoy seguro de que te ves muy linda cuando lo haces jsjsjs. Y bueno, no olvides que tenemos que ir a probar los mochis, eso sigue pendiente JAJAJA. Te deseo lo más bonito en esta nueva etapa. 🫶🏻💕`;
+ } else {
     text = decodeURIComponent(text).replace(/\\n/g, '\n');
   }
   const container = document.getElementById('dedication-text');

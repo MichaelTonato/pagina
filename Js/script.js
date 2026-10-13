@@ -73,9 +73,9 @@ function showDedicationText() { //seguidores
     text = 
 text = `Para Carolina <3:
 
-Holaaa, Carooo jsjs <3. Quería desearte un bonito primer día de clases. Espero que hoy te vaya súper bien, que conozcas personas bonitas, que aprendas muchas cosas y que poco a poco te vayas sintiendo cómoda en esta nueva etapa.
+Holaaa jsjs <3. \n\n Quería desearte un bonito primer día de clases. Espero que hoy te vaya súper bien, que conozcas personas bonitas, que aprendas muchas cosas y que poco a poco te vayas sintiendo cómoda en esta nueva etapa.
 
-Sé que a veces empezar algo nuevo puede dar un poquito de nervios, pero quiero que recuerdes lo increíble, inteligente y capaz que eres. Confía mucho en ti, porque tienes muchas cosas bonitas por delante y estoy seguro de que puedes lograr todo lo que te propongas.
+Sé que a veces empezar algo nuevo puede dar un poquito de nervios, pero quiero que recuerdes lo increíble, inteligente y capaz que eres. \n\Confía mucho en ti, porque tienes muchas cosas bonitas por delante y estoy seguro de que puedes lograr todo lo que te propongas.
 
 Espero que hoy tengas muchos motivos para sonreír y que, si en algún momento el día se pone pesado, recuerdes que hay alguien que desea verte bien y que siempre va a estar feliz de escucharte y apoyarte. osea yo. <3
 

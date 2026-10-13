@@ -73,13 +73,11 @@ function showDedicationText() { //seguidores
     text = 
 text = `Para Carolina <3:
 
-Holaaa jsjs <3. \n\n Quería desearte un bonito primer día de clases. Espero que hoy te vaya súper bien, que conozcas personas bonitas, que aprendas muchas cosas y que poco a poco te vayas sintiendo cómoda en esta nueva etapa.
-
-Sé que a veces empezar algo nuevo puede dar un poquito de nervios, pero quiero que recuerdes lo increíble, inteligente y capaz que eres. \n\Confía mucho en ti, porque tienes muchas cosas bonitas por delante y estoy seguro de que puedes lograr todo lo que te propongas.
+Holaaa jsjs <3. \n\n Quería desearte un bonito primer día de clases. Espero que hoy te vaya súper bien, que conozcas personas bonitas, que aprendas muchas cosas y recuerdes lo increíble, inteligente y capaz que eres. \n\Confía mucho en ti, porque tienes muchas cosas bonitas por delante y estoy seguro de que puedes lograr todo lo que te propongas.
 
 Espero que hoy tengas muchos motivos para sonreír y que, si en algún momento el día se pone pesado, recuerdes que hay alguien que desea verte bien y que siempre va a estar feliz de escucharte y apoyarte. osea yo. <3
 
-Cuídate mucho hoy, disfruta tu primer día y no te olvides de sonreír, que estoy seguro de que te ves muy linda cuando lo haces jsjsjs. Y bueno, no olvides que tenemos que ir a probar los mochis, eso sigue pendiente JAJAJA. Te deseo lo más bonito en esta nueva etapa. 🫶🏻💕`;
+Cuídate mucho hoy, disfruta tu primer día y no te olvides de sonreír, que estoy seguro de que te ves muy linda cuando lo haces jsjsjs. Te deseo lo más bonito en esta nueva etapa. 🫶🏻💕`;
  } else {
     text = decodeURIComponent(text).replace(/\\n/g, '\n');
   }
